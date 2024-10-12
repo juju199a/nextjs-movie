@@ -23,7 +23,7 @@ export default async function Home({searchParams: { targetDt = today } }:Props) 
 
   return (
     <div className="w-[350px] mx-auto">
-      <br/><br/>
+      <br/>
       <div className="flex justify-between">
         {/* <a href={'?targetDt=' + dayjs(targetDt).subtract(1, 'day').format('YYYYMMDD')}>이전</a> */}
         {/* <Link></Link> */}
