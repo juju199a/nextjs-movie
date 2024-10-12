@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Box Office Rankings",
+  title: "일별 박스오피스",
   description: "",
 };
 
