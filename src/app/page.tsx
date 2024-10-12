@@ -1,6 +1,5 @@
 import dayjs from "dayjs";
-import Image from "next/image";
-import Link from "next/link";
+
 import { PrevButton } from "./PrevButton";
 import { NextButton } from "./NextButton";
 

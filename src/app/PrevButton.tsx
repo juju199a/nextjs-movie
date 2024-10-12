@@ -1,7 +1,7 @@
 'use client';
 
 import dayjs from "dayjs";
-import { useSearchParams } from "next/navigation";
+// import { useSearchParams } from "next/navigation";
 // import { useRouter } from "next/router"; // pages router 용
 import { useRouter } from "next/navigation"; // app router 용
 
